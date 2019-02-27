@@ -1,0 +1,5 @@
+SELECT `Age` FROM `employees_table` ORDER BY 'Age' DESC
+
+SELECT `firstname`, `lastname`, `title`, `age`, `salary`, `employee_id` FROM `employees_table` ORDER BY 'DESC'
+
+SELECT `firstname`, `lastname`, `title`, `age`, `salary`, `employee_id` FROM `employees_table` ORDER BY 'ASC'
